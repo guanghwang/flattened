@@ -1,3 +1,7 @@
+Modified for my own usage.
+
+1. change spellbad background to term color 172
+
 Solarized, without the bullshit.
 ================================
 
